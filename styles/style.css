@@ -281,11 +281,12 @@ img:hover {
 
     .categorias__destaques,
     .destaques__barra {
-        width: 462px;
+        width: 28.87rem;
     }
 
     .categorias__imagem {
         background-image: url("../img/destaques_foto-Madalena-Schwartz_720.jpg");
+        width: 100%;
     }
 
     .categorias__titulo {
