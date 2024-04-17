@@ -47,7 +47,7 @@ img:hover {
     background-color: var(--preto);
     font-family: var(--fonte-primaria);
     font-size: 16px;
-    height: 258px;
+    height: 16.87rem;
     padding: 0 1.5rem;
     white-space: nowrap;
 
@@ -212,7 +212,6 @@ img:hover {
     opacity: 1;
     transition: 0.5s;
 
-
 }
 
 .categorias__imagem:hover {
@@ -319,9 +318,6 @@ img:hover {
         text-align: center;
     }
 
-
-
-
 }
 
 @media (min-width: 1440px) {
@@ -368,7 +364,7 @@ img:hover {
 
 
     .destaques .destaques__barra {
-        width: 416px;
+        width: 28.87rem;
     }
 
     .categorias__imagem {
